@@ -7,7 +7,7 @@ section{
     position:relative;
     height:100vh;
     display:flex;
-    max-width:1700px;
+    max-width:1694px;
     width:auto;
     background:#000;
     margin:0 auto;
@@ -26,7 +26,6 @@ section:hover .screen{
 }
 section .screen:hover{
  flex-grow:4;
- max-height:1000px;
  opacity:1;
 }
 
